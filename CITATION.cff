@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "AINS: Affordable Indoor Navigation Solution"
+type: software
+authors:
+  - family-names: Maitlo
+    given-names: Nizamuddin
+  - family-names: Noonari
+    given-names: Nooruddin
+  - family-names: Arshid
+    given-names: Kaleem
+repository-code: "https://github.com/nizamuddin-sjtu/AINS-Affordable-Indoor-Navigation-Solution"
+preferred-citation:
+  type: conference-paper
+  authors:
+    - family-names: Maitlo
+      given-names: Nizamuddin
+    - family-names: Noonari
+      given-names: Nooruddin
+    - family-names: Arshid
+      given-names: Kaleem
+    - family-names: Ahmed
+      given-names: N.
+    - family-names: Duraisamy
+      given-names: Sathishkumar
+  title: "AINS: Affordable Indoor Navigation Solution via Line Color Identification Using Mono-Camera for Autonomous Vehicles"
+  collection-title: "2024 IEEE 9th International Conference for Convergence in Technology (I2CT)"
+  year: 2024
+  doi: "10.1109/I2CT61223.2024.10544260"
